@@ -8,5 +8,3 @@ Boilerplate for creating WebVR scenes using A-Frame.
 ###/api/campus/countries/:country_id/provinces
 ###/api/campus/provinces/:province_id/cities
 ###/api/campus/places/:city_id
-
-
